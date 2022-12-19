@@ -2,7 +2,7 @@
 
 ### By Joseph Luper Tsenum, Maria Poptsova, Deborah Oganya Ogenyi
 
-Email: tsenumjosephluper@phystech.edu
+Correspondence Author's Email: tsenumjosephluper@phystech.edu
 
 Phystech School of Biological and Medical Physics (FBMF)
 
