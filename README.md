@@ -1,5 +1,18 @@
 # DNA-RNA-Triplex-Structure-Prediction-By-Deep-Learning-Using-Sequences
 
+### By Joseph Luper Tsenum, Maria Poptsova, Deborah Oganya Ogenyi
+
+Email: tsenumjosephluper@phystech.edu
+
+Phystech School of Biological and Medical Physics (FBMF)
+
+Moscow Institute of Physics and Technology (National Research University)
+
+Russian Federation
+
+
+### Introduction
+
 Long non-coding RNAs (lncRNAs) can perform their regulatory roles by forming triple helices through RNA-DNA interaction. Although this has been verified by few in vivo and in vitro methods, in silico approaches that seek to predict the potentials of lncRNAs and DNA sites becoming a triplex forming structure is required. 
 
 Triplexator have also predicted vast amounts of lncRNAs and DNA sites that has the potentials of becoming a triplex structure. There is also an emerging experimental evidence that the presence of epigenetic marks at DNA sites and lncRNAs can facilitate the formation of RNA:DNA triplex structures. There is therefore, a huge demand for computational approaches such as deep learning that can make novel predictions about RNA:DNA  triplex structure formation. 
