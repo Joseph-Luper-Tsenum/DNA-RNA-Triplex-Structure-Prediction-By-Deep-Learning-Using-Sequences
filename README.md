@@ -1,6 +1,6 @@
 # DNA-RNA-Triplex-Structure-Prediction-By-Deep-Learning-Using-Sequences
 
-### By Joseph Luper Tsenum AND Maria Poptsova
+### By Joseph Luper Tsenum and Maria Poptsova
 
 Correspondence Author's Email: tsenumjosephluper@phystech.edu
 
