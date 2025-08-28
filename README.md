@@ -1,4 +1,4 @@
-# DNA-RNA-Triplex-Structure-Prediction-By-Deep-Learning-Using-Sequences
+# Predicting RNA:DNA Triplex Structures from Sequence Features Using Deep Learning Architectures
 
 ### By Joseph Luper Tsenum and Maria Poptsova
 
